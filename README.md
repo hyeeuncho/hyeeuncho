@@ -8,6 +8,7 @@
 <a href="https://velog.io/@whgps/posts">
   <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog" />
 </a>
+<a href="mailto:heeuncho@naver.com"> <img src="https://img.shields.io/badge/Naver_Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Mail" /> </a>
 <a href="mailto:heeuncho@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
@@ -55,6 +56,24 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
+
+</div>
+
+<br/>
+
+<br/>
+
+<h2 align="center">🚀 Projects</h2>
+
+<div align="center">
+
+|                                    Project                                    | Description                 |
+| :---------------------------------------------------------------------------: | :-------------------------- |
+|                   **[KOK](https://github.com/5makase/KOK)**                   | 예약·웨이팅 기능을 제공하는 MSA 기반 서비스  |
+|              **[HubLink](https://github.com/Team4-MSA/hublink)**              | 물류·배송 관리를 위한 MSA 기반 플랫폼     |
+|        **[CodeWise](https://github.com/SMGvsHDS/CodeWise_Integration)**       | RAG 기반 AI 코드 리뷰 서비스         |
+| **[Weflow](https://github.com/FC-KDT-BackEnd13-Final-Project/weflow-server)** | 팀 협업을 지원하는 프로젝트 관리 SaaS     |
+|          **[GoTogether](https://github.com/GoTogether-Inc/frontend)**         | 네트워킹 이벤트 티켓팅·참가자 관리 웹 서비스 |
 
 </div>
 
