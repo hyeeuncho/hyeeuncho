@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cce5ff,100:61bdff&height=180&section=header&text=🫧%20Hello%20World,%20I'm%20Hyeeun%20🫧&animation=twinkling&fontColor=303030&fontSize=40" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cce5ff,100:61bdff&height=180&section=header&text=🫧%20Hyeeun's%20GitHub%20🫧&animation=twinkling&fontColor=303030&fontSize=40" width="100%" alt="header" />
 <br/>
 <img src="https://github.com/hyeeuncho.png" width="150" alt="Hyeeun GitHub Profile" />
 <br/><br/>
