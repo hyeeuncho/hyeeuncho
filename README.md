@@ -6,15 +6,16 @@
 
 <div align="center">
 
-|                                    Project                                    | Description                 |
-| :---------------------------------------------------------------------------: | :-------------------------- |
-|                   **[KOK](https://github.com/5makase/KOK)**                   | 예약·웨이팅 기능을 제공하는 MSA 기반 서비스  |
-|              **[HubLink](https://github.com/Team4-MSA/hublink)**              | 물류·배송 관리를 위한 MSA 기반 플랫폼     |
-|        **[CodeWise](https://github.com/SMGvsHDS/CodeWise_Integration)**       | RAG 기반 AI 코드 리뷰 서비스         |
-| **[Weflow](https://github.com/FC-KDT-BackEnd13-Final-Project/weflow-server)** | 팀 협업을 지원하는 프로젝트 관리 SaaS     |
-|          **[GoTogether](https://github.com/GoTogether-Inc/frontend)**         | 네트워킹 이벤트 티켓팅·참가자 관리 웹 서비스 |
+|                                    Project                                    |              Role              | Description                |
+| :---------------------------------------------------------------------------: | :----------------------------: | :------------------------- |
+|                   **[KOK](https://github.com/5makase/KOK)**                   |       **Backend · Infra**      | 예약·웨이팅 기능을 제공하는 MSA 기반 서비스 |
+|              **[HubLink](https://github.com/Team4-MSA/hublink)**              |       **Backend · Infra**      | 물류·배송 관리를 위한 MSA 기반 플랫폼    |
+|        **[CodeWise](https://github.com/SMGvsHDS/CodeWise_Integration)**       |        **AI · Backend**        | RAG 기반 AI 코드 리뷰 서비스        |
+| **[Weflow](https://github.com/FC-KDT-BackEnd13-Final-Project/weflow-server)** | **Backend · Frontend · Infra** | 팀 협업을 지원하는 프로젝트 관리 SaaS    |
+|          **[GoTogether](https://github.com/GoTogether-Inc/frontend)**         |          **Frontend**          | 네트워킹 이벤트 티켓팅·참가자 관리 웹 서비스  |
 
 </div>
+
 
 <br/>
 
