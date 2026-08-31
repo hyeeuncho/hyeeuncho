@@ -1,17 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cce5ff,100:61bdff&height=180&section=header&text=🫧%20Hello%20🫧&animation=twinkling&fontColor=303030&fontSize=40" width="100%" alt="header" />
-<br/>
-<img src="https://github.com/user-attachments/assets/9c215e3e-33da-4080-8b9c-efbdeec751e9" width="150" alt="Hyeeun GitHub Profile" />
-<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cce5ff,100:61bdff&height=180&section=header&text=&animation=twinkling&fontColor=303030&fontSize=40" width="100%" alt="header" />
 
-<a href="https://velog.io/@whgps/posts">
-  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog" />
-</a>
-<a href="mailto:heeuncho@naver.com"> <img src="https://img.shields.io/badge/Naver_Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Mail" /> </a>
-<a href="mailto:heeuncho@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
+<h2 align="center">🚀 Projects</h2>
+
+<div align="center">
+
+|                                    Project                                    | Description                 |
+| :---------------------------------------------------------------------------: | :-------------------------- |
+|                   **[KOK](https://github.com/5makase/KOK)**                   | 예약·웨이팅 기능을 제공하는 MSA 기반 서비스  |
+|              **[HubLink](https://github.com/Team4-MSA/hublink)**              | 물류·배송 관리를 위한 MSA 기반 플랫폼     |
+|        **[CodeWise](https://github.com/SMGvsHDS/CodeWise_Integration)**       | RAG 기반 AI 코드 리뷰 서비스         |
+| **[Weflow](https://github.com/FC-KDT-BackEnd13-Final-Project/weflow-server)** | 팀 협업을 지원하는 프로젝트 관리 SaaS     |
+|          **[GoTogether](https://github.com/GoTogether-Inc/frontend)**         | 네트워킹 이벤트 티켓팅·참가자 관리 웹 서비스 |
 
 </div>
 
@@ -60,30 +61,15 @@
 </div>
 
 <br/>
+<h2 align="center">🦋 Contact</h2>
 
-<br/>
-
-<h2 align="center">🚀 Projects</h2>
-
-<div align="center">
-
-|                                    Project                                    | Description                 |
-| :---------------------------------------------------------------------------: | :-------------------------- |
-|                   **[KOK](https://github.com/5makase/KOK)**                   | 예약·웨이팅 기능을 제공하는 MSA 기반 서비스  |
-|              **[HubLink](https://github.com/Team4-MSA/hublink)**              | 물류·배송 관리를 위한 MSA 기반 플랫폼     |
-|        **[CodeWise](https://github.com/SMGvsHDS/CodeWise_Integration)**       | RAG 기반 AI 코드 리뷰 서비스         |
-| **[Weflow](https://github.com/FC-KDT-BackEnd13-Final-Project/weflow-server)** | 팀 협업을 지원하는 프로젝트 관리 SaaS     |
-|          **[GoTogether](https://github.com/GoTogether-Inc/frontend)**         | 네트워킹 이벤트 티켓팅·참가자 관리 웹 서비스 |
-
-</div>
-
-<br/>
-
-<h2 align="center">🏅 Stats</h2>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=hyeeuncho&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="GitHub Streak Stats" />
+<a href="https://velog.io/@whgps/posts">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog" />
+</a>
+<a href="mailto:heeuncho@naver.com"> <img src="https://img.shields.io/badge/Naver_Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Mail" /> </a>
+<a href="mailto:heeuncho@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 
 </div>
 
