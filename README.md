@@ -16,6 +16,25 @@
 
 </div>
 
+<br/>
+
+<h2 align="center">📚 Algorithm Practice</h2>
+
+<div align="center">
+
+<a href="https://github.com/hyeeuncho/codekata">
+  <img
+    src="https://img.shields.io/badge/Code%20Kata-Java%20Algorithm%20Practice-61BDFF?style=for-the-badge&logo=github&logoColor=white"
+    alt="Code Kata Repository"
+  />
+</a>
+<p>
+  Java로 프로그래머스 알고리즘 문제를 풀이하며 코딩테스트를 준비하고 있습니다.<br/>
+  문제 유형, 풀이 기록, 개념 정리를 함께 관리합니다.
+</p>
+
+
+</div>
 
 <br/>
 
